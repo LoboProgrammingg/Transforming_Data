@@ -72,10 +72,6 @@ Transformação de Dados/
 
 ---
 
-## 📄 Licença
-
-Este projeto não possui uma licença oficial. Consulte o repositório para mais informações.
-
 ## 🌟 Agradecimentos
 
 Obrigado por conferir este projeto! Se você gostou, deixe uma estrela no repositório.
